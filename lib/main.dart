@@ -1,6 +1,6 @@
 import 'package:bible_app/core/provider/bible.provider.dart';
 import 'package:bible_app/core/utility/config.dart';
-import 'package:bible_app/ui/home_screen.dart';
+import 'package:bible_app/ui/home/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
